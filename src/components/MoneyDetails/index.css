@@ -1,0 +1,39 @@
+/* Write your CSS here */
+img {
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+}
+
+.balCls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  border-radius: 10px;
+  background-color: #ecfccb;
+  border: 1px #84cc16 solid;
+}
+
+.incmCls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  border-radius: 10px;
+  background-color: #cffafe;
+  border: 1px #06b6d4 solid;
+}
+
+.expnsCls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  border-radius: 10px;
+  background-color: #ede9fe;
+  border: 1px #7c3aed solid;
+}

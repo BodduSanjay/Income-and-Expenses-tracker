@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.titleCont {
+  display: flex;
+  justify-content: flex-start;
+  border: 1px gray solid;
+  padding-left: 10px;
+  width: 95%;
+}
+
+.fonts {
+  padding-right: 25px;
+}
